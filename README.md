@@ -48,10 +48,10 @@ Add your API key to your app manifest as shown in the following code sample, rep
      
 
 <div class="row">
-<img src="https://github.com/er-akashgarg/GooglePlacesApi/blob/master/screens/scr1.png" width="200" height="390" />
-<img src="https://github.com/er-akashgarg/GooglePlacesApi/blob/master/screens/scr2.png" width="200" height="390" />
-<img src="https://github.com/er-akashgarg/GooglePlacesApi/blob/master/screens/scr3.png" width="200" height="390" />
-<img src="https://github.com/er-akashgarg/GooglePlacesApi/blob/master/screens/scr4.png" width="200" height="390" />
+<img src="https://github.com/er-akashgarg/GooglePlacesApi/blob/master/screens/scr1.png" width="195" height="360" />
+<img src="https://github.com/er-akashgarg/GooglePlacesApi/blob/master/screens/scr2.png" width="195" height="360" />
+<img src="https://github.com/er-akashgarg/GooglePlacesApi/blob/master/screens/scr3.png" width="195" height="360" />
+<img src="https://github.com/er-akashgarg/GooglePlacesApi/blob/master/screens/scr4.png" width="195" height="360" />
 </div>
 
 
