@@ -30,7 +30,7 @@ Click Save.
 
 Your new Android-restricted API key appears in the list of API keys for your project. An API key is a string of characters, something like this:
 
-AIzaSyBdVl-cTICSwYKrZ95SuvNw7dbMuDt1KG0
+AIza*****************1KG0
 
 For more information please check Reference 4.
 
