@@ -6,11 +6,11 @@ It is important to note that Google Places API for Android is supported by all A
 
 The second prerequisite to use Google Places API for Android is that Google API key must be got by registering the app via Google API Console. Getting a key for your app requires several steps. These steps are outlined as follows.
 
-1. Get information about your app's certificate.
+## 1. Get information about your app's certificate.
 
 The API key is based on a short form of your app's digital certificate, known as its SHA-1 fingerprint. To display the SHA-1 fingerprint for your certificate, first ensure that you are using the right certificate. There are two types of certificate; namely, debug certificate and release certificate. If the project is built in debug mode, debug certificate created automatically. On the other hand, release certificate is generated when the project is built in release mode by Android SDK tools. Also, by using keytool program, this certificate can be generated. It is important to note that when the app is released, release certificate must be used. In order to know how to display the certificate and for more information, please check Reference 4.
 
-2. Register a project in the Google API Console, add the Google Places API for Android as a service for the project and request a key
+## 2. Register a project in the Google API Console, add the Google Places API for Android as a service for the project and request a key
 
 Follow these steps to get an API key:
 
@@ -34,7 +34,7 @@ AIzaSyBdVl-cTICSwYKrZ95SuvNw7dbMuDt1KG0
 
 For more information please check Reference 4.
 
-3. Add the key to your app by adding an element to your app manifest.
+## 3. Add the key to your app by adding an element to your app manifest.
 
 Add your API key to your app manifest as shown in the following code sample, replacing YOUR_API_KEY with your own API key:
 
@@ -54,5 +54,6 @@ Add your API key to your app manifest as shown in the following code sample, rep
 <img src="https://github.com/er-akashgarg/GooglePlacesApi/blob/master/screens/scr4.png" width="250" height="390" />
 </div>
 
-# Refrence-: 
-   https://developers.google.com/places/android-api/start
+
+# Reference-: 
+   * https://developers.google.com/places/android-api/start
