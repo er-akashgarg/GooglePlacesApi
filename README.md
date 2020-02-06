@@ -1,8 +1,5 @@
 # Google Places API for Android
 Android Google Places Client Api for location suggestion. Myanmar font issue handled also like Zawgyi and unicode.
-
-# Get the API- KEY-:
-  Url-: https://developers.google.com/places/web-service/get-api-key#premium-plan-customers
   
  # Developer's Guide
 It is important to note that Google Places API for Android is supported by all Android versions. The only prerequisite is that Google Play services component must be installed via the SDK Manager. Please follow the link given in Reference 3 for detailed information. The installed libraries must be added to the project.
@@ -41,12 +38,14 @@ For more information please check Reference 4.
 
 Add your API key to your app manifest as shown in the following code sample, replacing YOUR_API_KEY with your own API key:
 
-<application>  
-    ...  
-    <meta-data  
-         android:name="com.google.android.geo.API_KEY"  
-         android:value="YOUR_API_KEY"/>  
-</application>`
+    <application>  
+        ...  
+       <meta-data  
+           android:name="com.google.android.geo.API_KEY"  
+            android:value="YOUR_API_KEY"/>  
+     </application>`
+     
+     
 
 <div class="row">
 <img src="https://github.com/er-akashgarg/GooglePlacesApi/blob/master/screens/scr1.png" width="250" height="390" />
