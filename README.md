@@ -53,3 +53,6 @@ Add your API key to your app manifest as shown in the following code sample, rep
 <img src="https://github.com/er-akashgarg/GooglePlacesApi/blob/master/screens/scr3.png" width="250" height="390" />
 <img src="https://github.com/er-akashgarg/GooglePlacesApi/blob/master/screens/scr4.png" width="250" height="390" />
 </div>
+
+# Refrence-: 
+   https://developers.google.com/places/android-api/start
