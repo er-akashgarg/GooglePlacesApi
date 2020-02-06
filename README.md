@@ -45,7 +45,7 @@ Add your API key to your app manifest as shown in the following code sample, rep
             android:value="YOUR_API_KEY"/>  
      </application>`
      
-## Get an Api Key-: https://developers.google.com/places/android-sdk/get-api-key     
+### Get an Api Key-: https://developers.google.com/places/android-sdk/get-api-key     
 
 <div class="row">
 <img src="https://github.com/er-akashgarg/GooglePlacesApi/blob/master/screens/scr1.png" width="195" height="360" />
