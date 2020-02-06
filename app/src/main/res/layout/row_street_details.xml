@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lin_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.akashgarg.googleplacesapi.utils.MyanmarTextView
+        android:id="@+id/text_street_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:padding="5dp"
+        android:text="street"
+        android:textColor="#F1410A"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        tools:ignore="HardcodedText" />
+
+    <com.akashgarg.googleplacesapi.utils.MyanmarTextView
+        android:id="@+id/text_street_sub_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        android:text="street address"
+        android:textColor="#3A282A"
+        android:textSize="14sp"
+        tools:ignore="HardcodedText" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#A5A3A3" />
+
+</LinearLayout>
